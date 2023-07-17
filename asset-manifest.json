@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.eaf8be02.css",
-    "main.js": "/static/js/main.423505e1.js",
+    "main.js": "/static/js/main.2f04f519.js",
+    "static/media/cyberpunk-big.jpg": "/static/media/cyberpunk-big.2389b63212156c367ebd.jpg",
     "static/media/Musicology-big.jpg": "/static/media/Musicology-big.34f18ec621f3a56519c1.jpg",
     "static/media/crypto-sever-big.jpg": "/static/media/crypto-sever-big.3db4abf1a233f670b382.jpg",
     "static/media/psychoArt-big.jpg": "/static/media/psychoArt-big.8cf0d996838866305107.jpg",
+    "static/media/cyberpunk.jpg": "/static/media/cyberpunk.a1328041f68030f344a4.jpg",
     "static/media/Musicology.jpg": "/static/media/Musicology.b551de3ef95e71e88bb5.jpg",
     "static/media/crypto-sever.jpg": "/static/media/crypto-sever.9296f82c8fbc50f3fb45.jpg",
     "static/media/psychoArt.jpg": "/static/media/psychoArt.9640b234360c0ea7176a.jpg",
@@ -16,10 +18,10 @@
     "static/media/vk.svg": "/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
     "index.html": "/index.html",
     "main.eaf8be02.css.map": "/static/css/main.eaf8be02.css.map",
-    "main.423505e1.js.map": "/static/js/main.423505e1.js.map"
+    "main.2f04f519.js.map": "/static/js/main.2f04f519.js.map"
   },
   "entrypoints": [
     "static/css/main.eaf8be02.css",
-    "static/js/main.423505e1.js"
+    "static/js/main.2f04f519.js"
   ]
 }
